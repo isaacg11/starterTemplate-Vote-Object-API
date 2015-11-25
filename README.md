@@ -1,4 +1,5 @@
 # starterTemplate-Vote-Object-API
+##### a Javascript starter template for upvoting & downvoting objects
 
 **NOTE: Users must be logged in to use the voting function!**
 
